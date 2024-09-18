@@ -4,7 +4,7 @@ setup(
     name="prompt_hub_py",  # The name of your project
     version="0.0.1",  # Initial version
     author="Ashok Reddy",
-    author_email="kummethashokumareddy@example.com",
+    author_email="kummethashokumareddy@gmail.com",
     description="A package to manage prompts with PostgreSQL",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
